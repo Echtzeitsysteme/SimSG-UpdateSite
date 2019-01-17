@@ -1,3 +1,3 @@
-# SimSG-UpdateSite repository
+# SimSG-UpdateSite
 
-* Update site URL: https://raw.githubusercontent.com/eMoflon/SimSG-UpdateSite/master
+* Update site URL: http://emoflon.org/SimSG-UpdateSite
